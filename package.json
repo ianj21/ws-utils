@@ -1,6 +1,6 @@
 {
   "name": "@ianj15/ws-utils",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "",
   "type": "module",
   "main": "./dist/cjs/index.js",
@@ -8,10 +8,10 @@
   "types": "./dist/types/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ianj/ws-utils"
+    "url": "https://github.com/ianj21/ws-utils"
   },
-  "bugs": "https://github.com/ianj/ws-utils/issues",
-  "homepage": "https://github.com/ianj/ws-utils#readme",
+  "bugs": "https://github.com/ianj21/ws-utils/issues",
+  "homepage": "https://github.com/ianj21/ws-utils#readme",
   "scripts": {
     "lint": "eslint --fix",
     "build": "rollup -c",
@@ -26,7 +26,7 @@
       "require": "./dist/cjs/index.js"
     }
   },
-  "author": "ianj <ianj15@163.com>",
+  "author": "ianj21 <ianj15@163.com>",
   "license": "MIT",
   "files": [
     "dist"
